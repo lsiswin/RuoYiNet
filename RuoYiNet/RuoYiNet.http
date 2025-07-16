@@ -1,0 +1,6 @@
+@RuoYiNet_HostAddress = http://localhost:5128
+
+GET {{RuoYiNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
